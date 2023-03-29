@@ -1,0 +1,86 @@
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\Wedding.exe
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\Wedding.deps.json
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\Wedding.runtimeconfig.json
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\Wedding.runtimeconfig.dev.json
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\Wedding.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\Wedding.pdb
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dimab\Desktop\Wedding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dimab\Desktop\Wedding\obj\Debug\netcoreapp3.1\Wedding.csproj.AssemblyReference.cache
+C:\Users\dimab\Desktop\Wedding\obj\Debug\netcoreapp3.1\Wedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimab\Desktop\Wedding\obj\Debug\netcoreapp3.1\Wedding.AssemblyInfoInputs.cache
+C:\Users\dimab\Desktop\Wedding\obj\Debug\netcoreapp3.1\Wedding.AssemblyInfo.cs
+C:\Users\dimab\Desktop\Wedding\obj\Debug\netcoreapp3.1\Wedding.csproj.CoreCompileInputs.cache
+C:\Users\dimab\Desktop\Wedding\obj\Debug\netcoreapp3.1\Wedding.csproj.CopyComplete
+C:\Users\dimab\Desktop\Wedding\obj\Debug\netcoreapp3.1\Wedding.dll
+C:\Users\dimab\Desktop\Wedding\obj\Debug\netcoreapp3.1\Wedding.pdb
+C:\Users\dimab\Desktop\Wedding\obj\Debug\netcoreapp3.1\Wedding.genruntimeconfig.cache
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\Wedding.exe
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\Wedding.deps.json
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\Wedding.runtimeconfig.json
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\Wedding.runtimeconfig.dev.json
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\Wedding.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\Wedding.pdb
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\!desk\Work\Telegram bots\Wedding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\!desk\Work\Telegram bots\Wedding\obj\Debug\netcoreapp3.1\Wedding.csproj.AssemblyReference.cache
+D:\!desk\Work\Telegram bots\Wedding\obj\Debug\netcoreapp3.1\Wedding.GeneratedMSBuildEditorConfig.editorconfig
+D:\!desk\Work\Telegram bots\Wedding\obj\Debug\netcoreapp3.1\Wedding.AssemblyInfoInputs.cache
+D:\!desk\Work\Telegram bots\Wedding\obj\Debug\netcoreapp3.1\Wedding.AssemblyInfo.cs
+D:\!desk\Work\Telegram bots\Wedding\obj\Debug\netcoreapp3.1\Wedding.csproj.CoreCompileInputs.cache
+D:\!desk\Work\Telegram bots\Wedding\obj\Debug\netcoreapp3.1\Wedding.csproj.CopyComplete
+D:\!desk\Work\Telegram bots\Wedding\obj\Debug\netcoreapp3.1\Wedding.dll
+D:\!desk\Work\Telegram bots\Wedding\obj\Debug\netcoreapp3.1\Wedding.pdb
+D:\!desk\Work\Telegram bots\Wedding\obj\Debug\netcoreapp3.1\Wedding.genruntimeconfig.cache
